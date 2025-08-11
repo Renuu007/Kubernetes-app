@@ -145,7 +145,6 @@ kubectl delete -f deployment.yaml
 - [Kubernetes Documentation](https://kubernetes.io/docs/)
 - [Docker Desktop Kubernetes](https://docs.docker.com/desktop/kubernetes/)
 - [kind Documentation](https://kind.sigs.k8s.io/)
-- [Your GitHub Repo](https://github.com/Renuu007/Kubernetes-app)
 
 ---
 
