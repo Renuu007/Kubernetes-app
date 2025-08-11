@@ -14,7 +14,7 @@ This document contains key snapshots taken during the deployment and management 
 
 ## 2. Terminal Output: Kubernetes Commands
 
-![Kubernetes Terminal Output](D:\GitHub\Kubernetes-app\Screenshot 2025-08-11 131745.png)
+![Kubernetes Terminal Output](https://github.com/Renuu007/Kubernetes-app/blob/9f392b99766a8a62b45e6094f790e492e0650320/Screenshot%202025-08-11%20131745.png)
 
 *Description:* This screenshot displays the output of various `kubectl` commands, such as `kubectl get deployments`, `kubectl get services`, and others. It demonstrates the successful deployment, scaling, and exposure of the nginx application within the Kubernetes cluster, showing the status of deployments, services, and pods in a single consolidated view.
 
