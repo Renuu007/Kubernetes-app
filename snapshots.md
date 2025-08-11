@@ -6,7 +6,7 @@ This document contains key snapshots taken during the deployment and management 
 
 ## 1. Nginx Welcome Page in Browser
 
-![Nginx Welcome Page](D:\GitHub\Kubernetes-app\Screenshot 2025-08-11 131610.png)
+![Nginx Welcome Page](Screenshot 2025-08-11 131610.png)
 
 *Description:* This screenshot shows the default "Welcome to nginx!" page, confirming that the nginx web server is running and accessible on `localhost:8080` via port-forwarding or the service's external IP. This verifies that the deployment and service are working correctly.
 
